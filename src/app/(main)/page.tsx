@@ -1,5 +1,5 @@
-import AlurchopClicker from "@/feat/v0/game"
+import AlurchopFryer from "@/feat/v1"
 
 export default function Home() {
-  return <AlurchopClicker />
+  return <AlurchopFryer />
 }
